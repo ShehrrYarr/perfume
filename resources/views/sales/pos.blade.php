@@ -224,7 +224,7 @@
               <div style="margin-top:6px;">
                 <select id="manual_batch_select"
                   style="width:100%; padding:6px; border-radius:6px; border:1px solid #ddd;">
-                  <option value="">Select Accessory Batch</option>
+                  <option value="">Select Perfume Batch</option>
                   @foreach($batches as $batch)
                   <option value="{{ $batch->barcode }}">
                     {{ $batch->barcode }} - {{ $batch->accessory->name }} (Remaining: {{ $batch->qty_remaining }}) - {{
@@ -292,7 +292,7 @@
               <thead>
                 <tr>
                   <th>Barcode</th>
-                  <th>Accessory</th>
+                  <th>Perfume</th>
                   <th>Qty</th>
                   <th>Unit Price</th>
                   <th>Subtotal</th>
