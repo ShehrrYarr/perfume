@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Zam Zam Perfumes</title>
-    <link rel="icon" href="homepage_assets/img/AZT.png" src="homepage_assets/img/image2.jpg" type="image/x-icon">
+    <link rel="icon" href="homepage_assets/img/AZT.png" src="homepage_assets/img/image1.jpg" type="image/x-icon">
 
 
     <meta name="description" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
@@ -134,7 +134,7 @@
 
                 <!-- Item 1 -->
                 <div class="swiper-slide slide-center">
-                    <img data-aos="zoom-out-up" data-aos-delay="800" src="homepage_assets/img/image1.jpg"
+                    <img data-aos="zoom-out-up" data-aos-delay="800" src="homepage_assets/img/image2.jpg"
                         class="hero-image" alt="Hero Image">
                     <div class="slide-content row" data-mask-768="80">
                         <div class="col-12 d-flex inner">
