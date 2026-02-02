@@ -287,7 +287,7 @@
                 استعمال شدہ اور کھلی ہوئی چیز کی واپسی&nbsp;نہیں&nbsp;ہوگی •<br>
             </div> --}}
             <div class="divider"></div>
-            <div class="address-note"><b>Bahawalpur</b></div>
+            <div class="address-note"><b>Dubai Chowk Bahawalpur</b></div>
             <div class="center bold" style="font-size:13px;">
                 Thank you for shopping!
             </div>
