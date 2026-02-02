@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Zam Zam Perfumes</title>
-    <link rel="icon" href="homepage_assets/img/AZT.png" src="homepage_assets/img/image1.jpg" type="image/x-icon">
+    <link rel="icon" href="homepage_assets/img/AZT.png" src="homepage_assets/img/image2.jpg" type="image/x-icon">
 
 
     <meta name="description" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
